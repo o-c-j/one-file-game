@@ -14,10 +14,7 @@ You have to follow the track (down hill) until finish line.
 
 _ps: This is not a professional game. Just a simple game made in html + js._
 
-## Need help?
-
-Contact me in https://www.instagram.com/osvaldo.cassaniga.junior/
 
 ## License
 
-MIT © [osvaldoottonelli](https://github.com/osvaldoottonelli)
+MIT © [o-c-j](https://github.com/o-c-j)
